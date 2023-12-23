@@ -1,7 +1,7 @@
 {
-  "name": "@waline/vercel",
-  "version": "1.31.7",
-  "description": "vercel server for waline comment system",
+  "name": "@camelsrandomnote/vercel",
+  "version": "1.31.12",
+  "description": "Only Test - This is a modified version with discord fix for the vercel server for waline comment system. For original repo, please check the repo url.",
   "keywords": [
     "waline",
     "vercel",
@@ -14,6 +14,13 @@
   },
   "license": "MIT",
   "author": "lizheming <i@imnerd.org>",
+  "contributors": [
+    {
+      "author": "Huang Chuan",
+      "email" : "huang.chuan@iss.nthu.edu.tw", 
+      "url" : "https://github.com/river1440-ce"
+    }
+  ],
   "dependencies": {
     "@cloudbase/node-sdk": "^2.11.0",
     "@koa/cors": "^4.0.0",

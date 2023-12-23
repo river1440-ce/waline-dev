@@ -1,3 +1,7 @@
+# This is an only-test modified package for fixing the potential discord bug
+For the original package, please check the following link:
+[https://www.npmjs.com/package/@waline/vercel](https://www.npmjs.com/package/@waline/vercel)
+
 # @waline/vercel
 
 ![Version](https://img.shields.io/npm/v/@waline/vercel?color=blue&logo=npm&style=flat-square)
